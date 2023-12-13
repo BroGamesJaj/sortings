@@ -20,6 +20,7 @@ def counting_sort(array, maxv):
     return sorted
 
 # hello main
+# mostmár jó
 
 
 #valami ke
